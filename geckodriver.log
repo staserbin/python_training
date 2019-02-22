@@ -1,0 +1,353 @@
+1547162318031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.DScrTcoPpgIF"
+1547162320607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547162320609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547162327899	Marionette	INFO	Listening on port 37724
+1547162328393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547162333251	Marionette	INFO	Stopped listening on port 37724
+[Child 3520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3520, Chrome_ChildThread] WA[Parent 4004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 7656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7656, Chrome_ChildThread] WARNING: pipe error: 1[Parent 4004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1700, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547162581867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.x3vgiv3H98WE"
+1547162584000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547162584000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547162589601	Marionette	INFO	Listening on port 38300
+1547162589787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547162594879	Marionette	INFO	Stopped listening on port 38300
+[Child 8668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8668, Chrome_ChildThread] WARNING: pipe error: 109: fil[Child 3960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3960, Chro[Parent 2076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 199
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 911547162720302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.ivTcwvAjBtBe"
+1547162722183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547162722184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547162726297	Marionette	INFO	Listening on port 38618
+1547162726677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547162730985	Marionette	INFO	Stopped listening on port 38618
+[Parent 1120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 1120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547213580020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.3xCMa4iM5lVY"
+1547213582330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547213582331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547213586801	Marionette	INFO	Listening on port 51824
+1547213586859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547213590153	Marionette	INFO	Stopped listening on port 51824
+[Child 4076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4076, Chrome_ChildThread] WARNING:[Child 3200, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/c[Parent 10032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP1547217983854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.KYBaoZtctHu5"
+1547217984999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547217984999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547217987449	Marionette	INFO	Listening on port 53754
+1547217987774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547217990342	Marionette	INFO	Stopped listening on port 53754
+[Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1728, C[Parent 2096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5444
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU1547219422437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.SOhW3bdyYcyH"
+1547219423571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547219423571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547219425997	Marionette	INFO	Listening on port 54436
+1547219426388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547219428878	Marionette	INFO	Stopped listening on port 54436
+[Parent 2616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 948, Chr
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+ome_ChildThread] WARNING: pip[Parent 2616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU[Parent 2616, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1547219432203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.RPbc1OGPP7D6"
+1547219433211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547219433211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547219435500	Marionette	INFO	Listening on port 54506
+1547219435610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547219438353	Marionette	INFO	Stopped listening on port 54506
+[Child 4484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4484, Chrome_Ch[Parent 12464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547220613813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.o6pyxo3S2Spg"
+1547220614832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547220614833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547220617215	Marionette	INFO	Listening on port 54873
+1547220617252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547220620063	Marionette	INFO	Stopped listening on port 54873
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr[Parent 204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1872, Chrome_ChildThrea
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7856,1547220623422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.pUe0w3yRI6cv"
+1547220624061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547220624061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547220626266	Marionette	INFO	Listening on port 54938
+1547220626740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547220629239	Marionette	INFO	Stopped listening on port 54938
+[Parent 8004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu[Parent 8004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547221514562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.AH4dz9mKPqRQ"
+1547221515224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547221515224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547221517723	Marionette	INFO	Listening on port 55002
+1547221517852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547221520613	Marionette	INFO	Stopped listening on port 55002
+[Parent 816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547221524093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.f569VjembkcL"
+1547221524727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547221524727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547221526988	Marionette	INFO	Listening on port 55066
+1547221527413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547221529922	Marionette	INFO	Stopped listening on port 55066
+[Child 5960, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 5960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5960, Chrome_ChildThread] WARNING:[Parent 1896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547247810784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.nGDouDzbvUoo"
+1547247813303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547247813304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547247820862	Marionette	INFO	Listening on port 8036
+1547247821065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547247822985	Marionette	INFO	Stopped listening on port 8036
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 9524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12471547247828056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.LhYUsWFB9AaV"
+1547247829712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547247829713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547247833646	Marionette	INFO	Listening on port 8082
+1547247833724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547247834527	Marionette	INFO	Stopped listening on port 8082
+[Child 12536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch[Child 8164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8164console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+[Parent 12676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12676, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548737940295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.v4nNLDiSLIUM"
+1548737941942	addons.xpi	WARN	Can't get modified time of C:\Program Files\Mozilla Firefox\browser\features\{17DEB715-1068-4541-8366-546FEE3D2374}.xpi
+1548737942575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548737942576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548737942751	addons.xpi-utils	WARN	addMetadata: Add-on {17DEB715-1068-4541-8366-546FEE3D2374} is invalid: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.isFile]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:857
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:871
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2417
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2769
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:203
+_startProvider()@resource://gre/modules/AddonManager.jsm:651
+startup()@resource://gre/modules/AddonManager.jsm:804
+startup()@resource://gre/modules/AddonManager.jsm:2774
+observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:66
+1548737942753	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1548737942798	addons.xpi-utils	WARN	addMetadata: Add-on {1262AB4A-CF58-4148-A7A7-F4EBD2076686} is invalid: Error: Invalid addon ID: expected addon ID {1262AB4A-CF58-4148-A7A7-F4EBD2076686}, found undefined in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2421:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2421:15
+processFileChanges@XPIDatabase.jsm:2769:21
+checkForChanges@XPIProvider.jsm:2556:34
+startup@XPIProvider.jsm:2134:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:651:5
+startup@AddonManager.jsm:804:9
+startup@AddonManager.jsm:2774:5
+observe@addonManager.js:66:9
+1548737942811	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1548737950478	addons.xpi	WARN	Can't get modified time of C:\Program Files\Mozilla Firefox\browser\features\{17DEB715-1068-4541-8366-546FEE3D2374}.xpi
+1548737950800	Marionette	INFO	Listening on port 35016
+1548737950998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548737956634	Marionette	INFO	Stopped listening on port 35016
+[Parent 6928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548822914591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.kyxIoh1I7qyG"
+1548822915959	addons.xpi	WARN	Can't get modified time of C:\Program Files\Mozilla Firefox\browser\features\{17DEB715-1068-4541-8366-546FEE3D2374}.xpi
+1548822916393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548822916393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548822916528	addons.xpi-utils	WARN	addMetadata: Add-on {17DEB715-1068-4541-8366-546FEE3D2374} is invalid: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.isFile]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:857
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:871
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2417
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2769
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:203
+_startProvider()@resource://gre/modules/AddonManager.jsm:651
+startup()@resource://gre/modules/AddonManager.jsm:804
+startup()@resource://gre/modules/AddonManager.jsm:2774
+observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:66
+1548822916530	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1548822916574	addons.xpi-utils	WARN	addMetadata: Add-on {1262AB4A-CF58-4148-A7A7-F4EBD2076686} is invalid: Error: Invalid addon ID: expected addon ID {1262AB4A-CF58-4148-A7A7-F4EBD2076686}, found undefined in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2421:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2421:15
+processFileChanges@XPIDatabase.jsm:2769:21
+checkForChanges@XPIProvider.jsm:2556:34
+startup@XPIProvider.jsm:2134:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:651:5
+startup@AddonManager.jsm:804:9
+startup@AddonManager.jsm:2774:5
+observe@addonManager.js:66:9
+1548822916641	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1548822921397	addons.xpi	WARN	Can't get modified time of C:\Program Files\Mozilla Firefox\browser\features\{17DEB715-1068-4541-8366-546FEE3D2374}.xpi
+1548822921856	Marionette	INFO	Listening on port 4962
+1548822921952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548822923811	Marionette	INFO	Stopped listening on port 4962
+[Child 5048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Child 3948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP1548824762550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SERBIN\\AppData\\Local\\Temp\\rust_mozprofile.6CeAOj31SEf3"
+1548824763460	addons.xpi	WARN	Can't get modified time of C:\Program Files\Mozilla Firefox\browser\features\{17DEB715-1068-4541-8366-546FEE3D2374}.xpi
+1548824763734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548824763734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548824763867	addons.xpi-utils	WARN	addMetadata: Add-on {17DEB715-1068-4541-8366-546FEE3D2374} is invalid: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.isFile]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:857
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:871
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2417
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2769
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:203
+_startProvider()@resource://gre/modules/AddonManager.jsm:651
+startup()@resource://gre/modules/AddonManager.jsm:804
+startup()@resource://gre/modules/AddonManager.jsm:2774
+observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:66
+1548824763869	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1548824763906	addons.xpi-utils	WARN	addMetadata: Add-on {1262AB4A-CF58-4148-A7A7-F4EBD2076686} is invalid: Error: Invalid addon ID: expected addon ID {1262AB4A-CF58-4148-A7A7-F4EBD2076686}, found undefined in manifest(resource://gre/modules/addons/XPIDatabase.jsm:2421:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2421:15
+processFileChanges@XPIDatabase.jsm:2769:21
+checkForChanges@XPIProvider.jsm:2556:34
+startup@XPIProvider.jsm:2134:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:651:5
+startup@AddonManager.jsm:804:9
+startup@AddonManager.jsm:2774:5
+observe@addonManager.js:66:9
+1548824763907	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1548824766515	addons.xpi	WARN	Can't get modified time of C:\Program Files\Mozilla Firefox\browser\features\{17DEB715-1068-4541-8366-546FEE3D2374}.xpi
+1548824766656	Marionette	INFO	Listening on port 6320
+1548824766985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548824771325	Marionette	INFO	Stopped listening on port 6320
+[Child 11576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 2960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
